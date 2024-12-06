@@ -1,0 +1,7 @@
+__pycache__/
+input.txt/
+*.py[cod]
+*$py.class
+
+**/description.md
+**/input.txt
